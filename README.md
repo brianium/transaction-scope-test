@@ -11,9 +11,9 @@ transactions will automatically enlist in the ambient transaction.
 
 Requirements
 ------------
-A SQLExpress instance or equivalent - these tests were built on a Sql Server 2008 R2 express instance and the connection strings reflect that
-A database called `ProductDatabase`
-A database called `OrderDatabase`
+* A SQLExpress instance or equivalent - these tests were built on a Sql Server 2008 R2 express instance and the connection strings reflect that
+* A database called `ProductDatabase`
+* A database called `OrderDatabase`
 
 Setting up databases
 --------------------
